@@ -35,7 +35,7 @@ export default function App() {
   return (
     <div>
       <header>
-        <h1>TaskMan</h1>
+        <h1>TaskBuddy</h1>
         <p><i>Your friendly Task Manager</i></p>
       </header>
       <TaskForm  addTask = {addTask}/>
